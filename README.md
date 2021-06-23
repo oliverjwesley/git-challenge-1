@@ -2,8 +2,14 @@
 
 # This contains the updated webpage for Horiseon, which deals with search engine optimization, online reputation management, and social media marketing
 
-# Added image alts for accessibility and added comments
+# Changes made
 
-# Consolidated styles in css style sheet
+Added image alts for accessibility and added comments
 
-# Utilized semantic HTML by using section tags instead of div
+Consolidated styles in css style sheet
+
+Utilized semantic HTML by using section tags instead of div
+
+# Hosted at:
+
+https://oliverjwesley.github.io/git-challenge-1/
